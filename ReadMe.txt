@@ -1,0 +1,1 @@
+Console weather parser (from http://pogoda.spb.ru/) 
